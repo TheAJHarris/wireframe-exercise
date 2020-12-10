@@ -2,14 +2,12 @@
 
 ## wireframe-exercise
 
-I built an app with a direct and powerful purpose. My app does all of the things that it accomplishes well. Here  I describe the purpose and functionality so those that visit my README understand the app.
+Created a wireframe to the specs of the lab, and focused on changes using only CSS.
 
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* Any Links you used as reference
+got lorem ipsum from https://www.lipsum.com/
 
 ### Reflections and Comments
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
+Learned so much about CSS today, Ryan did a demo of the code in class and although I used his examples, I learned a great deal by doing so. 
